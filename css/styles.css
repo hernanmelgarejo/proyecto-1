@@ -46,7 +46,7 @@ h3 {
   margin: 0 auto;
 }
 
-.boton{
+.boton {
   background-color: var(--azulbrillante);
   color: var(--blanco);
   padding: 1rem 3rem;
@@ -54,16 +54,16 @@ h3 {
   font-size: 2rem;
   text-transform: uppercase;
   font-weight: bold;
-  border-radius: .5rem;
+  border-radius: 0.5rem;
   text-decoration: none;
   width: 90%;
   text-align: center;
 }
 
 @media (min-width: 768px) {
-.boton{
-  width: auto;
-}
+  .boton {
+    width: auto;
+  }
 }
 
 .nav-bg {
@@ -124,7 +124,7 @@ h3 {
   color: var(--blanco);
 }
 
-.ubicacion{
-display: flex;
-align-items: flex-end;
+.ubicacion {
+  display: flex;
+  align-items: flex-end;
 }
